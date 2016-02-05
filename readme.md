@@ -6,7 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  037  |  [An ORM Discussion](Object-relational mapping (ORM) tools are a great way to model relational databases in your codebase. We discuss the benefits that ORM tools can add to our apps, some problems with the ORM model and where the PHP community seems to be heading when it comes to persisting data. We'll also discuss the opposing active record & data mapper paradigms.)​  |  :exclamation:  |    |
+|  037  |  [An ORM Discussion](https://www.phproundtable.com/episode/orms-and-the-active-record-data-mapper-paradigms)​  |  :exclamation:  |    |
 |  036  |  [A Room 11 Special](https://www.phproundtable.com/episode/discussions-from-room-11-on-stack-overflow)​  |  :exclamation:  |    |
 |  035  |  [Immutable PHP](https:​/​/​www.phproundtable.com/​episode/​immutability-and-functional-concepts-in-php)​  |  :exclamation:  |    |
 |  034  |  [Debugging is more than var_dump()​​](https:​/​/​www.phproundtable.com/​episode/​debugging-is-more-than-var-dump)  |  :exclamation:  |    |
