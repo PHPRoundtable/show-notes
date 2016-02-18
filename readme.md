@@ -6,6 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
+|  038  |  [RFC Show & Tell] [038]  |  :exclamation:  |    |
 |  037  |  [An ORM Discussion] [037]  |  :exclamation:  |    |
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
 |  035  |  [Immutable PHP] [035]  |  :exclamation:  |    |
@@ -44,6 +45,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[038]: https://www.phproundtable.com/episode/proposed-features-of-php-71
 [037]: https://www.phproundtable.com/episode/orms-and-the-active-record-data-mapper-paradigms
 [036]: https://www.phproundtable.com/episode/discussions-from-room-11-on-stack-overflow
 [035]: https://www.phproundtable.com/episode/immutability-and-functional-concepts-in-php
