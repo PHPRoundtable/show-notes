@@ -6,7 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  038  |  [RFC Show & Tell] [038]  |  :exclamation:  |    |
+|  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
 |  037  |  [An ORM Discussion] [037]  |  :exclamation:  |    |
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
 |  035  |  [Immutable PHP] [035]  |  :exclamation:  |    |
@@ -87,3 +87,4 @@ We can try to keep this up to date, that way we know what needs to be done.
 [@SammyK]: https://twitter.com/SammyK
 [@andy_huggins]: https://twitter.com/andy_huggins
 [@StevenMaguire]: https://twitter.com/StevenMaguire
+[@chris48s]: https://github.com/chris48s
