@@ -11,7 +11,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
 |  035  |  [Immutable PHP] [035]  |  :exclamation:  |    |
 |  034  |  [Debugging is more than var_dump()] [034]  |  :exclamation:  |    |
-|  033  |  [Design Patternmania] [033]  |  :exclamation:  |    |
+|  033  |  [Design Patternmania] [033] |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins] |
 |  032  |  [Running A Rockin' PHP User Group] [032]  |  :exclamation:  |    |
 |  031  |  [Checking in with PHP & HHVM internals] [031]  |  :exclamation:  |    |
 |  030  |  [SOA and Microservices] [030]  |  :exclamation:  |    |
