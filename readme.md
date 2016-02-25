@@ -6,6 +6,8 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
+|  040  |  [Graph Databases] [040]  |  :exclamation:  |    |
+|  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
 |  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
 |  037  |  [An ORM Discussion] [037]  |  :exclamation:  |    |
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
@@ -45,6 +47,8 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[040]: https://www.phproundtable.com/episode/using-graph-databases-in-php
+[039]: https://www.phproundtable.com/episode/part-2-turning-an-idea-into-code-for-production
 [038]: https://www.phproundtable.com/episode/proposed-features-of-php-71
 [037]: https://www.phproundtable.com/episode/orms-and-the-active-record-data-mapper-paradigms
 [036]: https://www.phproundtable.com/episode/discussions-from-room-11-on-stack-overflow
