@@ -6,7 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  040  |  [Graph Databases] [040]  |  :exclamation:  |    |
+|  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
 |  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
 |  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
 |  037  |  [An ORM Discussion] [037]  |  :exclamation:  |    |
