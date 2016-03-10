@@ -20,7 +20,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  030  |  [SOA and Microservices] [030]  |  :exclamation:  |    |
 |  029  |  [The Only Girl In The Room] [029]  |  :exclamation:  |    |
 |  028  |  [The Alcoholic & Unfit PHP Culture] [028]  |  :exclamation:  |    |
-|  027  |  [A Laracon US Special] [027]  |  :exclamation:  |    |
+|  027  |  [A Laracon US Special] [027]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
 |  026  |  [Documentation & Developer Experience] [026]  |  :exclamation:  |    |
 |  025  |  [PHP7 Release Management] [025]  |  :exclamation:  |    |
 |  024  |  [Becoming A PHP Entrepreneur] [024]  |  :exclamation:  |    |
