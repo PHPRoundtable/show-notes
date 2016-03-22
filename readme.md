@@ -6,6 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
+|  042  |  [Staying Relevant For Web Development] [042]  |  :exclamation:  |    |
 |  041  |  [The PHP-FIG: Past, Present & Future] [041]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s] & [Ken Guest] [@kenguest]  |
 |  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
@@ -48,6 +49,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[042]: https://www.phproundtable.com/episode/staying-relevant-in-an-ever-changing-web-development-world
 [041]: https://www.phproundtable.com/episode/the-php-framework-interop-group-past-present-future
 [040]: https://www.phproundtable.com/episode/using-graph-databases-in-php
 [039]: https://www.phproundtable.com/episode/part-2-turning-an-idea-into-code-for-production
