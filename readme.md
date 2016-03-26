@@ -6,7 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  042  |  [Staying Relevant For Web Development] [042]  |  :exclamation:  |    |
+|  042  |  [Staying Relevant For Web Development] [042]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  041  |  [The PHP-FIG: Past, Present & Future] [041]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s] & [Ken Guest] [@kenguest]  |
 |  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
