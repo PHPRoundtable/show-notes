@@ -11,7 +11,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  037  |  [An ORM Discussion] [037]  |  :exclamation:  |    |
+|  037  |  [An ORM Discussion] [037]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
 |  035  |  [Immutable PHP] [035]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  034  |  [Debugging is more than var_dump()] [034]  |  :exclamation:  |    |
