@@ -31,7 +31,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  020  |  [A Loosely Coupled Mashup @ php[tek]] [020]  |  :exclamation:  |    |
 |  019  |  [The Business of PHP] [019]  |  :exclamation:  |    |
 |  018  |  [F8 Afterglow & The PHP SDK] [018]  |  :exclamation:  |    |
-|  017  |  [Modernizing Legacy Codebases in PHP] [017]  |  :exclamation:  |    |
+|  017  |  [Modernizing Legacy Codebases in PHP] [017]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  016  |  [Contributing To PHP 7] [016]  |  :exclamation:  |    |
 |  015  |  [SemVer Licensing & OS Support Expectations] [015]  |  :exclamation:  |    |
 |  014  |  [A Midwest PHP Special] [014]  |  :exclamation:  |    |
