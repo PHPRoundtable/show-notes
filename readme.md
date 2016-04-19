@@ -6,7 +6,7 @@ We can try to keep this up to date, that way we know what needs to be done.
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  044  |  [Asynchronous PHP] [044]  |  :exclamation:  |    |
+|  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
 |  042  |  [Staying Relevant For Web Development] [042]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  041  |  [The PHP-FIG: Past, Present & Future] [041]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s] & [Ken Guest] [@kenguest]  |
