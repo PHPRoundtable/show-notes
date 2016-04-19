@@ -1,8 +1,8 @@
 # PHP Roundtable Show Notes
 
-Here is a list of the episodes that need show notes on [PHPRoundtable.com](https://www.phproundtable.com/). Pull requests are welcome and you will be fully credited during a live recording and on the website. Make sure to include your twitter handle in the pull request. :)
+Here is a list of the episodes that need show notes on [PHPRoundtable.com](https://www.phproundtable.com/).
 
-We can try to keep this up to date, that way we know what needs to be done.
+Pull requests are welcome and you will be fully credited during a live recording and on the website. Make sure to include your twitter handle in the pull request. :)
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
