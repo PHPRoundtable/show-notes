@@ -1,18 +1,21 @@
 # PHP Roundtable Show Notes
 
-Here is a list of the episodes that need show notes on [PHPRoundtable.com](https://www.phproundtable.com/). Pull requests are welcome and you will be fully credited during a live recording and on the website. Make sure to include your twitter handle in the pull request. :)
+Here is a list of the episodes that need show notes on [PHPRoundtable.com](https://www.phproundtable.com/).
 
-We can try to keep this up to date, that way we know what needs to be done.
+Pull requests are welcome and you will be fully credited during a live recording and on the website. Make sure to include your twitter handle in the pull request. :)
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  041  |  [The PHP-FIG: Past, Present & Future] [041]  |  :exclamation:  |    |
-|  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
-|  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
-|  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
-|  037  |  [An ORM Discussion] [037]  |  :exclamation:  |    |
+|  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
+|  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
+|  042  |  [Staying Relevant For Web Development] [042]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
+|  041  |  [The PHP-FIG: Past, Present & Future] [041]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s] & [Ken Guest] [@kenguest]  |
+|  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
+|  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
+|  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
+|  037  |  [An ORM Discussion] [037]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
-|  035  |  [Immutable PHP] [035]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
+|  035  |  [Immutable PHP] [035]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  034  |  [Debugging is more than var_dump()] [034]  |  :exclamation:  |    |
 |  033  |  [Design Patternmania] [033] |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins] |
 |  032  |  [Running A Rockin' PHP User Group] [032]  |  :exclamation:  |    |
@@ -24,13 +27,13 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  026  |  [Documentation & Developer Experience] [026]  |  :exclamation:  |    |
 |  025  |  [PHP7 Release Management] [025]  |  :exclamation:  |    |
 |  024  |  [Becoming A PHP Entrepreneur] [024]  |  :exclamation:  |    |
-|  023  |  [PHP's Major "Bus Factor" Problem] [023]  |  :white_check_mark:  |  [chris48s] [@chris48s]  |
+|  023  |  [PHP's Major "Bus Factor" Problem] [023]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  022  |  [All About PSR-7] [022]  |  :exclamation:  |    |
 |  021  |  [From Idea To Production: Part 1] [021]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK] & [Steven Maguire] [@StevenMaguire]  |
 |  020  |  [A Loosely Coupled Mashup @ php[tek]] [020]  |  :exclamation:  |    |
 |  019  |  [The Business of PHP] [019]  |  :exclamation:  |    |
 |  018  |  [F8 Afterglow & The PHP SDK] [018]  |  :exclamation:  |    |
-|  017  |  [Modernizing Legacy Codebases in PHP] [017]  |  :exclamation:  |    |
+|  017  |  [Modernizing Legacy Codebases in PHP] [017]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  016  |  [Contributing To PHP 7] [016]  |  :exclamation:  |    |
 |  015  |  [SemVer Licensing & OS Support Expectations] [015]  |  :exclamation:  |    |
 |  014  |  [A Midwest PHP Special] [014]  |  :exclamation:  |    |
@@ -48,6 +51,9 @@ We can try to keep this up to date, that way we know what needs to be done.
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[044]: https://www.phproundtable.com/episode/asynchronous-php
+[043]: https://www.phproundtable.com/episode/a-lone-star-php-2016-special
+[042]: https://www.phproundtable.com/episode/staying-relevant-in-an-ever-changing-web-development-world
 [041]: https://www.phproundtable.com/episode/the-php-framework-interop-group-past-present-future
 [040]: https://www.phproundtable.com/episode/using-graph-databases-in-php
 [039]: https://www.phproundtable.com/episode/part-2-turning-an-idea-into-code-for-production
@@ -94,3 +100,4 @@ We can try to keep this up to date, that way we know what needs to be done.
 [@andy_huggins]: https://twitter.com/andy_huggins
 [@StevenMaguire]: https://twitter.com/StevenMaguire
 [@chris48s]: https://github.com/chris48s
+[@kenguest]: https://twitter.com/kenguest
