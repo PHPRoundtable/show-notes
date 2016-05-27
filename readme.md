@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
+|  045  |  [A php|tek 2016 Special] [045]  |  :exclamation:  |    |
 |  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
 |  042  |  [Staying Relevant For Web Development] [042]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
@@ -51,6 +52,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[045]: https://www.phproundtable.com/episode/live-from-php-tek-2016
 [044]: https://www.phproundtable.com/episode/asynchronous-php
 [043]: https://www.phproundtable.com/episode/a-lone-star-php-2016-special
 [042]: https://www.phproundtable.com/episode/staying-relevant-in-an-ever-changing-web-development-world
