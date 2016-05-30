@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
+|  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :exclamation:  |    |
 |  045  |  [A php|tek 2016 Special] [045]  |  :exclamation:  |    |
 |  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
@@ -52,6 +53,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[046]: https://www.phproundtable.com/episode/character-encoding-and-utf-8-in-php
 [045]: https://www.phproundtable.com/episode/live-from-php-tek-2016
 [044]: https://www.phproundtable.com/episode/asynchronous-php
 [043]: https://www.phproundtable.com/episode/a-lone-star-php-2016-special
