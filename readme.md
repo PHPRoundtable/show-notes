@@ -4,10 +4,10 @@ Here is a list of the episodes that need show notes on [PHPRoundtable.com](https
 
 Pull requests are welcome and you will be fully credited during a live recording and on the website. Make sure to include your twitter handle in the pull request. :)
 
-|  #  |  Episode  |  Status  |  Credit  |
-|-----|-----------|----------|----------|
+|   #   |  Episode  |  Status  |  Credit  |
+|-------|-----------|----------|----------|
 |  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :white_check_mark:  |  [Dominic Bordelon] [@dominicbordelon]  |
-|  045  |  [A php|tek 2016 Special] [045]  |  :exclamation:  |    |
+|  045  |  [A php-tek 2016 Special] [045]  |  :exclamation:  |    |
 |  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
 |  042  |  [Staying Relevant For Web Development] [042]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
