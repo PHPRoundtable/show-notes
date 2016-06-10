@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |  #  |  Episode  |  Status  |  Credit  |
 |-----|-----------|----------|----------|
-|  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :exclamation:  |    |
+|  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :white_check_mark:  |  [Dominic Bordelon] [@dominicbordelon]  |
 |  045  |  [A php|tek 2016 Special] [045]  |  :exclamation:  |    |
 |  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
@@ -105,3 +105,4 @@ Pull requests are welcome and you will be fully credited during a live recording
 [@StevenMaguire]: https://twitter.com/StevenMaguire
 [@chris48s]: https://github.com/chris48s
 [@kenguest]: https://twitter.com/kenguest
+[@dominicbordelon]: https://twitter.com/dominicbordelon
