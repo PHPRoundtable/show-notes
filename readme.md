@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  048  |  [Docker & PHP] [048]  |  :exclamation:  |    |
 |  047  |  [All About HTTP/2] [047]  |  :exclamation:  |    |
 |  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :white_check_mark:  |  [Dominic Bordelon] [@dominicbordelon]  |
 |  045  |  [A php-tek 2016 Special] [045]  |  :exclamation:  |    |
@@ -54,6 +55,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[048]: https://www.phproundtable.com/episode/docker-and-php
 [047]: https://www.phproundtable.com/episode/all-about-http2
 [046]: https://www.phproundtable.com/episode/character-encoding-and-utf-8-in-php
 [045]: https://www.phproundtable.com/episode/live-from-php-tek-2016
