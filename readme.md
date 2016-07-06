@@ -6,8 +6,8 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  048  |  [Docker & PHP] [048]  |  :exclamation:  |    |
-|  047  |  [All About HTTP/2] [047]  |  :exclamation:  |    |
+|  048  |  [Docker & PHP] [048]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
+|  047  |  [All About HTTP/2] [047]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :white_check_mark:  |  [Dominic Bordelon] [@dominicbordelon]  |
 |  045  |  [A php-tek 2016 Special] [045]  |  :exclamation:  |    |
 |  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
