@@ -56,6 +56,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[049]: https://www.phproundtable.com/episode/event-sourcing-in-php
 [048]: https://www.phproundtable.com/episode/docker-and-php
 [047]: https://www.phproundtable.com/episode/all-about-http2
 [046]: https://www.phproundtable.com/episode/character-encoding-and-utf-8-in-php
