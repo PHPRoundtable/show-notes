@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  049  |  [Event Sourcing in PHP] [049]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
 |  048  |  [Docker & PHP] [048]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  047  |  [All About HTTP/2] [047]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :white_check_mark:  |  [Dominic Bordelon] [@dominicbordelon]  |
@@ -55,6 +56,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[049]: https://www.phproundtable.com/episode/event-sourcing-in-php
 [048]: https://www.phproundtable.com/episode/docker-and-php
 [047]: https://www.phproundtable.com/episode/all-about-http2
 [046]: https://www.phproundtable.com/episode/character-encoding-and-utf-8-in-php
