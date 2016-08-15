@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  050  |  [PHP For Beginners] [050]  |  :exclamation:  |    |
+|  050  |  [PHP For Beginners] [050]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  049  |  [Event Sourcing in PHP] [049]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
 |  048  |  [Docker & PHP] [048]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  047  |  [All About HTTP/2] [047]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
