@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  053  |  [Why I'm Afraid To Admit I Use PHP][053]  |  :exclamation:  |    |
 |  052  |  [Happy Birthday PHP Roundtable!] [052]  |  :exclamation:  |    |
 |  051  |  [What happened to PHP 6?] [051]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  050  |  [PHP For Beginners] [050]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
@@ -59,6 +60,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[053]: https://www.phproundtable.com/episode/why-im-afraid-to-admit-im-a-php-programmer
 [052]: https://www.phproundtable.com/episode/behind-the-scenes-of-two-years-of-the-php-roundtable
 [051]: https://www.phproundtable.com/episode/what-happened-to-php-6
 [050]: https://www.phproundtable.com/episode/php-for-beginners
