@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  053  |  [Why I'm Afraid To Admit I Use PHP][053]  |  :exclamation:  |    |
+|  053  |  [Why I'm Afraid To Admit I Use PHP][053]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  052  |  [Happy Birthday PHP Roundtable!] [052]  |  :exclamation:  |    |
 |  051  |  [What happened to PHP 6?] [051]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  050  |  [PHP For Beginners] [050]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
