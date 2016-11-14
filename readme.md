@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  056  |  [Hourly vs Value-Based Pricing][056]  |  :exclamation:  |    |
+|  056  |  [Hourly vs Value-Based Pricing][056]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  055  |  [Acceptance Testing with Behat][055]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  054  |  [Security: Encryption, Hashing and PHP][054]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  053  |  [Why I'm Afraid To Admit I Use PHP][053]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
