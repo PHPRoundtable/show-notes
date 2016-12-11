@@ -28,7 +28,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  037  |  [An ORM Discussion] [037]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
 |  035  |  [Immutable PHP] [035]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  034  |  [Debugging is more than var_dump()] [034]  |  :check:  |  [Peter Keller] [@petekeller2]  |
+|  034  |  [Debugging is more than var_dump()] [034]  |  :white_check_mark:  |  [Peter Keller] [@petekeller2]  |
 |  033  |  [Design Patternmania] [033] |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins] |
 |  032  |  [Running A Rockin' PHP User Group] [032]  |  :exclamation:  |    |
 |  031  |  [Checking in with PHP & HHVM internals] [031]  |  :exclamation:  |    |
