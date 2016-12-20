@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  057  |  [All Things Zend][057]  |  :exclamation:  |    |
 |  056  |  [Hourly vs Value-Based Pricing][056]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  055  |  [Acceptance Testing with Behat][055]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  054  |  [Security: Encryption, Hashing and PHP][054]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
@@ -63,6 +64,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[057]: https://www.phproundtable.com/episode/all-things-zend-framework-apigility-certification
 [056]: https://www.phproundtable.com/episode/hourly-vs-value-based-pricing
 [055]: https://www.phproundtable.com/episode/acceptance-testing-with-behat
 [054]: https://www.phproundtable.com/episode/security-encryption-hashing-and-php
