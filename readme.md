@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  057  |  [All Things Zend][057]  |  :exclamation:  |    |
+|  057  |  [All Things Zend][057]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  056  |  [Hourly vs Value-Based Pricing][056]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  055  |  [Acceptance Testing with Behat][055]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  054  |  [Security: Encryption, Hashing and PHP][054]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
