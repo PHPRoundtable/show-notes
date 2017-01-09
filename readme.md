@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  058  |  [HTTPlug, Guzzle & API's][058]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  057  |  [All Things Zend][057]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  056  |  [Hourly vs Value-Based Pricing][056]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
 |  055  |  [Acceptance Testing with Behat][055]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
@@ -64,6 +65,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
 
+[058]: https://www.phproundtable.com/episode/httplug-guzzle-and-apis
 [057]: https://www.phproundtable.com/episode/all-things-zend-framework-apigility-certification
 [056]: https://www.phproundtable.com/episode/hourly-vs-value-based-pricing
 [055]: https://www.phproundtable.com/episode/acceptance-testing-with-behat
