@@ -8,64 +8,64 @@ Pull requests are welcome and you will be fully credited during a live recording
 |-------|-----------|----------|----------|
 |  060  |  [Logging & Crash Reporting in PHP][060]  |  :exclamation:  |    |
 |  059  |  [PHP 7.1][059]  |  :exclamation:  |    |
-|  058  |  [HTTPlug, Guzzle & API's][058]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  057  |  [All Things Zend][057]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  056  |  [Hourly vs Value-Based Pricing][056]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  055  |  [Acceptance Testing with Behat][055]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  054  |  [Security: Encryption, Hashing and PHP][054]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  053  |  [Why I'm Afraid To Admit I Use PHP][053]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  052  |  [Happy Birthday PHP Roundtable!] [052]  |  :exclamation:  |    |
-|  051  |  [What happened to PHP 6?] [051]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  050  |  [PHP For Beginners] [050]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  049  |  [Event Sourcing in PHP] [049]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
-|  048  |  [Docker & PHP] [048]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  047  |  [All About HTTP/2] [047]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  046  |  [Character Encoding and UTF-8 in PHP] [046]  |  :white_check_mark:  |  [Dominic Bordelon] [@dominicbordelon]  |
-|  045  |  [A php-tek 2016 Special] [045]  |  :exclamation:  |    |
-|  044  |  [Asynchronous PHP] [044]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  043  |  [A Lone Star PHP 2016 Special] [043]  |  :exclamation:  |    |
-|  042  |  [Staying Relevant For Web Development] [042]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  041  |  [The PHP-FIG: Past, Present & Future] [041]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s] & [Ken Guest] [@kenguest]  |
-|  040  |  [Graph Databases] [040]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  039  |  [From Idea To Production: Part 2] [039]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  038  |  [RFC Show & Tell] [038]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  037  |  [An ORM Discussion] [037]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  036  |  [A Room 11 Special] [036]  |  :exclamation:  |    |
-|  035  |  [Immutable PHP] [035]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  034  |  [Debugging is more than var_dump()] [034]  |  :white_check_mark:  |  [Peter Keller] [@petekeller2]  |
-|  033  |  [Design Patternmania] [033] |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins] |
-|  032  |  [Running A Rockin' PHP User Group] [032]  |  :exclamation:  |    |
-|  031  |  [Checking in with PHP & HHVM internals] [031]  |  :exclamation:  |    |
-|  030  |  [SOA and Microservices] [030]  |  :exclamation:  |    |
-|  029  |  [The Only Girl In The Room] [029]  |  :exclamation:  |    |
-|  028  |  [The Alcoholic & Unfit PHP Culture] [028]  |  :exclamation:  |    |
-|  027  |  [A Laracon US Special] [027]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
-|  026  |  [Documentation & Developer Experience] [026]  |  :exclamation:  |    |
-|  025  |  [PHP7 Release Management] [025]  |  :exclamation:  |    |
-|  024  |  [Becoming A PHP Entrepreneur] [024]  |  :exclamation:  |    |
-|  023  |  [PHP's Major "Bus Factor" Problem] [023]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  022  |  [All About PSR-7] [022]  |  :exclamation:  |    |
-|  021  |  [From Idea To Production: Part 1] [021]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK] & [Steven Maguire] [@StevenMaguire]  |
-|  020  |  [A Loosely Coupled Mashup @ php[tek]] [020]  |  :exclamation:  |    |
-|  019  |  [The Business of PHP] [019]  |  :exclamation:  |    |
-|  018  |  [F8 Afterglow & The PHP SDK] [018]  |  :exclamation:  |    |
-|  017  |  [Modernizing Legacy Codebases in PHP] [017]  |  :white_check_mark:  |  [Chris Shaw] [@chris48s]  |
-|  016  |  [Contributing To PHP 7] [016]  |  :exclamation:  |    |
-|  015  |  [SemVer Licensing & OS Support Expectations] [015]  |  :exclamation:  |    |
-|  014  |  [A Midwest PHP Special] [014]  |  :exclamation:  |    |
-|  013  |  [TDD & BDD In PHP] [013]  |  :exclamation:  |    |
-|  012  |  [A PHP Town Hall Mashup at Sunshine PHP] [012]  |  :exclamation:  |    |
-|  011  |  [Accessibility On The Web] [011]  |  :exclamation:  |    |
-|  010  |  [ReactJS and the Flux architecture] [010]  |  :exclamation:  |    |
-|  009  |  [Coding Securely In PHP] [009]  |  :exclamation:  |    |
-|  008  |  [Domain-Driven Design In PHP] [008]  |  :exclamation:  |    |
-|  007  |  [Git & Git-Flow - Open Source Part 1] [007]  |  :exclamation:  |    |
-|  006  |  [Faceoff: Taylor Otwell vs Phil Sturgeon] [006]  |  :exclamation:  |    |
-|  005  |  [PHP Internals - Past Present & Future] [005]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
-|  004  |  [All About API's] [004]  |  :white_check_mark:  |  [Andy Huggins] [@andy_huggins]  |
-|  003  |  [A #WurstCon Special] [003]  |  :exclamation:  |    |
-|  002  |  [Functional Programming In PHP] [002]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
-|  001  |  [The PHP Community, PHP CLI, & ElePHPants] [001]  |  :white_check_mark:  |  [Sammy Kaye Powers] [@SammyK]  |
+|  058  |  [HTTPlug, Guzzle & API's][058]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  057  |  [All Things Zend][057]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  056  |  [Hourly vs Value-Based Pricing][056]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  055  |  [Acceptance Testing with Behat][055]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  054  |  [Security: Encryption, Hashing and PHP][054]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  053  |  [Why I'm Afraid To Admit I Use PHP][053]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  052  |  [Happy Birthday PHP Roundtable!][052]  |  :exclamation:  |    |
+|  051  |  [What happened to PHP 6?][051]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  050  |  [PHP For Beginners][050]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  049  |  [Event Sourcing in PHP][049]  |  :white_check_mark:  |  [Andy Huggins][@andy_huggins]  |
+|  048  |  [Docker & PHP][048]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  047  |  [All About HTTP/2][047]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  046  |  [Character Encoding and UTF-8 in PHP][046]  |  :white_check_mark:  |  [Dominic Bordelon][@dominicbordelon]  |
+|  045  |  [A php-tek 2016 Special][045]  |  :exclamation:  |    |
+|  044  |  [Asynchronous PHP][044]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  043  |  [A Lone Star PHP 2016 Special][043]  |  :exclamation:  |    |
+|  042  |  [Staying Relevant For Web Development][042]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  041  |  [The PHP-FIG: Past, Present & Future][041]  |  :white_check_mark:  |  [Chris Shaw][@chris48s] & [Ken Guest][@kenguest]  |
+|  040  |  [Graph Databases][040]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  039  |  [From Idea To Production: Part 2][039]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  038  |  [RFC Show & Tell][038]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  037  |  [An ORM Discussion][037]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  036  |  [A Room 11 Special][036]  |  :exclamation:  |    |
+|  035  |  [Immutable PHP][035]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  034  |  [Debugging is more than var_dump()][034]  |  :white_check_mark:  |  [Peter Keller][@petekeller2]  |
+|  033  |  [Design Patternmania][033] |  :white_check_mark:  |  [Andy Huggins][@andy_huggins] |
+|  032  |  [Running A Rockin' PHP User Group][032]  |  :exclamation:  |    |
+|  031  |  [Checking in with PHP & HHVM internals][031]  |  :exclamation:  |    |
+|  030  |  [SOA and Microservices][030]  |  :exclamation:  |    |
+|  029  |  [The Only Girl In The Room][029]  |  :exclamation:  |    |
+|  028  |  [The Alcoholic & Unfit PHP Culture][028]  |  :exclamation:  |    |
+|  027  |  [A Laracon US Special][027]  |  :white_check_mark:  |  [Andy Huggins][@andy_huggins]  |
+|  026  |  [Documentation & Developer Experience][026]  |  :exclamation:  |    |
+|  025  |  [PHP7 Release Management][025]  |  :exclamation:  |    |
+|  024  |  [Becoming A PHP Entrepreneur][024]  |  :exclamation:  |    |
+|  023  |  [PHP's Major "Bus Factor" Problem][023]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  022  |  [All About PSR-7][022]  |  :exclamation:  |    |
+|  021  |  [From Idea To Production: Part 1][021]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK] & [Steven Maguire][@StevenMaguire]  |
+|  020  |  [A Loosely Coupled Mashup @ php[tek]][020]  |  :exclamation:  |    |
+|  019  |  [The Business of PHP][019]  |  :exclamation:  |    |
+|  018  |  [F8 Afterglow & The PHP SDK][018]  |  :exclamation:  |    |
+|  017  |  [Modernizing Legacy Codebases in PHP][017]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
+|  016  |  [Contributing To PHP 7][016]  |  :exclamation:  |    |
+|  015  |  [SemVer Licensing & OS Support Expectations][015]  |  :exclamation:  |    |
+|  014  |  [A Midwest PHP Special][014]  |  :exclamation:  |    |
+|  013  |  [TDD & BDD In PHP][013]  |  :exclamation:  |    |
+|  012  |  [A PHP Town Hall Mashup at Sunshine PHP][012]  |  :exclamation:  |    |
+|  011  |  [Accessibility On The Web][011]  |  :exclamation:  |    |
+|  010  |  [ReactJS and the Flux architecture][010]  |  :exclamation:  |    |
+|  009  |  [Coding Securely In PHP][009]  |  :exclamation:  |    |
+|  008  |  [Domain-Driven Design In PHP][008]  |  :exclamation:  |    |
+|  007  |  [Git & Git-Flow - Open Source Part 1][007]  |  :exclamation:  |    |
+|  006  |  [Faceoff: Taylor Otwell vs Phil Sturgeon][006]  |  :exclamation:  |    |
+|  005  |  [PHP Internals - Past Present & Future][005]  |  :white_check_mark:  |  [Andy Huggins][@andy_huggins]  |
+|  004  |  [All About API's][004]  |  :white_check_mark:  |  [Andy Huggins][@andy_huggins]  |
+|  003  |  [A #WurstCon Special][003]  |  :exclamation:  |    |
+|  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
+|  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
 [060]: https://www.phproundtable.com/episode/logging-and-crash-reporting-in-php
 [059]: https://www.phproundtable.com/episode/php-7-1
