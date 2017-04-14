@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  061  |  [Dependency Injection][061]  |  :exclamation:  |    |
 |  060  |  [Logging & Crash Reporting in PHP][060]  |  :exclamation:  |    |
 |  059  |  [PHP 7.1][059]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  058  |  [HTTPlug, Guzzle & API's][058]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
@@ -67,6 +68,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[061]: https://www.phproundtable.com/episode/dependency-injection-and-psr-11
 [060]: https://www.phproundtable.com/episode/logging-and-crash-reporting-in-php
 [059]: https://www.phproundtable.com/episode/php-7-1
 [058]: https://www.phproundtable.com/episode/httplug-guzzle-and-apis
