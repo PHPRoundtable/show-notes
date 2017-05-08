@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  061  |  [Dependency Injection][061]  |  :exclamation:  |    |
+|  061  |  [Dependency Injection][061]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  060  |  [Logging & Crash Reporting in PHP][060]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  059  |  [PHP 7.1][059]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  058  |  [HTTPlug, Guzzle & API's][058]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
