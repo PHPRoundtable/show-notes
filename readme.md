@@ -6,7 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
-|  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :exclamation:  |    |
+|  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  063  |  [A php[tek] 2017 Special][063]  |  :exclamation:  |    |
 |  062  |  [All things Laravel][062]  |  :exclamation:  |    |
 |  061  |  [Dependency Injection][061]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
@@ -40,7 +40,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  033  |  [Design Patternmania][033] |  :white_check_mark:  |  [Andy Huggins][@andy_huggins] |
 |  032  |  [Running A Rockin' PHP User Group][032]  |  :exclamation:  |    |
 |  031  |  [Checking in with PHP & HHVM internals][031]  |  :exclamation:  |    |
-|  030  |  [SOA and Microservices][030]  |  :exclamation:  |    |
+|  030  |  [SOA and Microservices][030]  |  :white_check_mark:  |  [Chris Thomas][@cwt137]  |
 |  029  |  [The Only Girl In The Room][029]  |  :exclamation:  |    |
 |  028  |  [The Alcoholic & Unfit PHP Culture][028]  |  :exclamation:  |    |
 |  027  |  [A Laracon US Special][027]  |  :white_check_mark:  |  [Andy Huggins][@andy_huggins]  |
@@ -143,3 +143,4 @@ Pull requests are welcome and you will be fully credited during a live recording
 [@kenguest]: https://twitter.com/kenguest
 [@dominicbordelon]: https://twitter.com/dominicbordelon
 [@petekeller2]: https://twitter.com/petekeller2
+[@cwt137]: https://twitter.com/cwt137
