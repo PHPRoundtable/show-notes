@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  065  |  [TestFest 2017][065]  |  :exclamation:  |    |
 |  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  063  |  [A php[tek] 2017 Special][063]  |  :exclamation:  |    |
 |  062  |  [All things Laravel][062]  |  :exclamation:  |    |
@@ -71,6 +72,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[065]: https://www.phproundtable.com/episode/php-test-fest-2017
 [064]: https://www.phproundtable.com/episode/php-7-internals-scanning-parsing-ast-and-engine
 [063]: https://www.phproundtable.com/episode/a-php-tek-2017-special
 [062]: https://www.phproundtable.com/episode/all-things-laravel
