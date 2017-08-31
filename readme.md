@@ -7,7 +7,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
 |  066  |  [Docker: Drinking the Kool-Aid][066]  |  :exclamation:  |    |
-|  065  |  [TestFest 2017][065]  |  :exclamation:  |    |
+|  065  |  [TestFest 2017][065]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  063  |  [A php[tek] 2017 Special][063]  |  :exclamation:  |    |
 |  062  |  [All things Laravel][062]  |  :exclamation:  |    |
