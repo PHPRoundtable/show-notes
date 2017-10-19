@@ -10,7 +10,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  065  |  [TestFest 2017][065]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  063  |  [A php[tek] 2017 Special][063]  |  :exclamation:  |    |
-|  062  |  [All things Laravel][062]  |  :exclamation:  |    |
+|  062  |  [All things Laravel][062]  |  :white_check_mark:  |  [Chris Thomas][@cwt137]  |
 |  061  |  [Dependency Injection][061]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  060  |  [Logging & Crash Reporting in PHP][060]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  059  |  [PHP 7.1][059]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
