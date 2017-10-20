@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  067  |  [Imposter syndrome and the Dunning-Kruger effect][067]  |  :exclamation:  |    |
 |  066  |  [Docker: Drinking the Kool-Aid][066]  |  :exclamation:  |    |
 |  065  |  [TestFest 2017][065]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
@@ -73,6 +74,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[067]: https://www.phproundtable.com/episode/imposter-syndrome-and-the-dunning-kruger-effect
 [066]: https://www.phproundtable.com/episode/my-transition-from-vagrant-to-docker
 [065]: https://www.phproundtable.com/episode/php-test-fest-2017
 [064]: https://www.phproundtable.com/episode/php-7-internals-scanning-parsing-ast-and-engine
