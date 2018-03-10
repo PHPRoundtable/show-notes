@@ -8,7 +8,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 |-------|-----------|----------|----------|
 |  068  |  [PHP's Dirty Little Segfault Secret][068]  |  :exclamation:  |    |
 |  067  |  [Imposter syndrome and the Dunning-Kruger effect][067]  |  :exclamation:  |    |
-|  066  |  [Docker: Drinking the Kool-Aid][066]  |  :exclamation:  |    |
+|  066  |  [Docker: Drinking the Kool-Aid][066]  |  :white_check_mark:  |  [Shane Smith][@shane-smith]  |
 |  065  |  [TestFest 2017][065]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  064  |  [PHP 7 Source Code: A Deep Dive][064]  |  :white_check_mark:  |  [Chris Shaw][@chris48s]  |
 |  063  |  [A php[tek] 2017 Special][063]  |  :exclamation:  |    |
@@ -152,3 +152,4 @@ Pull requests are welcome and you will be fully credited during a live recording
 [@dominicbordelon]: https://twitter.com/dominicbordelon
 [@petekeller2]: https://twitter.com/petekeller2
 [@cwt137]: https://twitter.com/cwt137
+[@shane-smith]: https://github.com/shane-smith
