@@ -6,6 +6,8 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  071  |  [Extra, extra: PHP 7.2 released!][071]  |  :exclamation:  |    |
+|  070  |  [All things WordPress][070]  |  :exclamation: |    |
 |  069  |  [Catching Up With PHP Friends][069]  |  :white_check_mark:  |  [Shane Smith][@shane-smith]  |
 |  068  |  [PHP's Dirty Little Segfault Secret][068]  |  :exclamation:  |    |
 |  067  |  [Imposter syndrome and the Dunning-Kruger effect][067]  |  :exclamation:  |    |
@@ -76,6 +78,8 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[071]: https://www.phproundtable.com/episode/extra-extra-php-72-released
+[070]: https://www.phproundtable.com/episode/all-things-wordpress
 [069]: https://www.phproundtable.com/episode/catching-up-with-php-friends
 [068]: https://www.phproundtable.com/episode/phps-dirty-little-segfault-secret-the-stack-bomb
 [067]: https://www.phproundtable.com/episode/imposter-syndrome-and-the-dunning-kruger-effect
