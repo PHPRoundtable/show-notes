@@ -6,6 +6,7 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  074  |  [Secrets, Secrets, Are No Fun][074]  |  :exclamation:  |    |
 |  073  |  [PHP Static Analysis][073]  |  :white_check_mark:  |  [Matthias Gutjahr][@mattsches]  |
 |  072  |  [Secret Project Revealed!][072]  |  :exclamation:  |    |
 |  071  |  [Extra, extra: PHP 7.2 released!][071]  |  :exclamation:  |    |
@@ -80,6 +81,9 @@ Pull requests are welcome and you will be fully credited during a live recording
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[074]: https://www.phproundtable.com/episode/securely-managing-secrets-in-php
+[073]: https://www.phproundtable.com/episode/using-static-analyzers-to-improve-our-php-codebases
+[072]: https://www.phproundtable.com/episode/secret-project-revealed
 [071]: https://www.phproundtable.com/episode/extra-extra-php-72-released
 [070]: https://www.phproundtable.com/episode/all-things-wordpress
 [069]: https://www.phproundtable.com/episode/catching-up-with-php-friends
@@ -161,3 +165,4 @@ Pull requests are welcome and you will be fully credited during a live recording
 [@petekeller2]: https://twitter.com/petekeller2
 [@cwt137]: https://twitter.com/cwt137
 [@shane-smith]: https://github.com/shane-smith
+[@mattsches]: https://twitter.com/mattsches
