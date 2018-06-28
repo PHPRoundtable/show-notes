@@ -2,7 +2,27 @@
 
 Here is a list of the episodes that need show notes on [PHPRoundtable.com](https://www.phproundtable.com/).
 
-Pull requests are welcome and you will be fully credited during a live recording and on the website. Make sure to include your twitter handle in the pull request. :)
+Pull requests are welcome and you will be fully credited during a live recording and on the website.
+
+Just use the following template and save it to a markdown file in the `episodes/` folder and name the file after the episode number.
+
+```
+# Episode Title Here
+
+> No need to add the description or panelist info here since it's already on the site. :)
+
+## Some Point
+
+- Some more details on the subject.
+- Jane mentions some [blog post](https://www.sammyk.me/how-to-compile-an-unreleased-rfc-feature-for-php-source-php-internals) relevant to the topic.
+
+## Some Other Point
+
+- Some other point summarized.
+- Another point here.
+
+> No need to add developer shout-outs or shameless plugs since those are already on the site as well. :)
+```
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
