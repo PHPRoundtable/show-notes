@@ -6,6 +6,8 @@ Pull requests are welcome and you will be fully credited during a live recording
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  073  |  [PHP Static Analysis][073]  |  :white_check_mark:  |  [Matthias Gutjahr][@mattsches]  |
+|  072  |  [Secret Project Revealed!][072]  |  :exclamation:  |    |
 |  071  |  [Extra, extra: PHP 7.2 released!][071]  |  :exclamation:  |    |
 |  070  |  [All things WordPress][070]  |  :exclamation: |    |
 |  069  |  [Catching Up With PHP Friends][069]  |  :white_check_mark:  |  [Shane Smith][@shane-smith]  |
