@@ -26,6 +26,8 @@ Just use the following template and save it to a markdown file in the `episodes/
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  076  |  [Concurrency, Generators & Coroutines - Oh My!][076]  |  :exclamation:  |    |
+|  075  |  [Web Content Accessibility Guidelines (WCAG) 2.1][075]  |  :white_check_mark:  |  [Eric Eggert][@yatil]  |
 |  074  |  [Secrets, Secrets, Are No Fun][074]  |  :exclamation:  |    |
 |  073  |  [PHP Static Analysis][073]  |  :white_check_mark:  |  [Matthias Gutjahr][@mattsches]  |
 |  072  |  [Secret Project Revealed!][072]  |  :exclamation:  |    |
@@ -101,6 +103,8 @@ Just use the following template and save it to a markdown file in the `episodes/
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[076]: https://www.phproundtable.com/episode/concurrency-generators-coroutines-oh-my
+[075]: https://www.phproundtable.com/episode/web-content-accessibility-guidelines-wcag-2-1
 [074]: https://www.phproundtable.com/episode/securely-managing-secrets-in-php
 [073]: https://www.phproundtable.com/episode/using-static-analyzers-to-improve-our-php-codebases
 [072]: https://www.phproundtable.com/episode/secret-project-revealed
@@ -186,3 +190,4 @@ Just use the following template and save it to a markdown file in the `episodes/
 [@cwt137]: https://twitter.com/cwt137
 [@shane-smith]: https://github.com/shane-smith
 [@mattsches]: https://twitter.com/mattsches
+[@yatil]: https://twitter.com/yatil
