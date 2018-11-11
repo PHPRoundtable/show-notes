@@ -107,7 +107,7 @@ Just use the following template and save it to a markdown file in the `episodes/
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
-[080]: https://www.phproundtable.com/episode/php-internals-preloading-ffi-and-more
+[080]: https://www.phproundtable.com/episode/php-internals-preloading-ffi-typed-properties-and-more
 [079]: https://www.phproundtable.com/episode/general-data-protection-regulation-gdpr-for-php-devs
 [078]: https://www.phproundtable.com/episode/docblocks-annotations-psr-5-and-the-like
 [077]: https://www.phproundtable.com/episode/tech-interviews-for-self-taught-php-programmers
