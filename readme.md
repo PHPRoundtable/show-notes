@@ -26,6 +26,10 @@ Just use the following template and save it to a markdown file in the `episodes/
 
 |   #   |  Episode  |  Status  |  Credit  |
 |-------|-----------|----------|----------|
+|  080  |  [PHP Internals: Preloading, FFI & More][080]  |  :exclamation:  |    |
+|  079  |  [GDPR For PHP Devs][079]  |  :exclamation:  |    |
+|  078  |  [DocBlocks, Annotations, PSR-5 & The Like][078]  |  :exclamation:  |    |
+|  077  |  [Tech Interviews for Self-Taught PHP Programmers][077]  |  :exclamation:  |    |
 |  076  |  [Concurrency, Generators & Coroutines - Oh My!][076]  |  :exclamation:  |    |
 |  075  |  [Web Content Accessibility Guidelines (WCAG) 2.1][075]  |  :white_check_mark:  |  [Eric Eggert][@yatil]  |
 |  074  |  [Secrets, Secrets, Are No Fun][074]  |  :exclamation:  |    |
@@ -103,6 +107,10 @@ Just use the following template and save it to a markdown file in the `episodes/
 |  002  |  [Functional Programming In PHP][002]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 |  001  |  [The PHP Community, PHP CLI, & ElePHPants][001]  |  :white_check_mark:  |  [Sammy Kaye Powers][@SammyK]  |
 
+[080]: https://www.phproundtable.com/episode/php-internals-preloading-ffi-and-more
+[079]: https://www.phproundtable.com/episode/general-data-protection-regulation-gdpr-for-php-devs
+[078]: https://www.phproundtable.com/episode/docblocks-annotations-psr-5-and-the-like
+[077]: https://www.phproundtable.com/episode/tech-interviews-for-self-taught-php-programmers
 [076]: https://www.phproundtable.com/episode/concurrency-generators-coroutines-oh-my
 [075]: https://www.phproundtable.com/episode/web-content-accessibility-guidelines-wcag-2-1
 [074]: https://www.phproundtable.com/episode/securely-managing-secrets-in-php
